@@ -1,10 +1,11 @@
 {
-  "name": "project_name",
+  "name": "oop_quiz_app",
   "version": "1.0.0",
-  "description": "Project Description",
+  "description": "Simple quiz-like application that shows the uses of OOP patterns",
   "scripts": {
-    "start": "serve",
+    "start": "server"
   },
   "dependencies": {
     "serve": "^10.0.1"
-  },
+  }
+}
